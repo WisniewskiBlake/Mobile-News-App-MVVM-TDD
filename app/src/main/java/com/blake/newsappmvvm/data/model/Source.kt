@@ -1,0 +1,6 @@
+package com.blake.newsappmvvm.data.model
+
+data class Source(
+    val id: String,
+    val name: String
+)
